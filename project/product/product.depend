@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1440082370 source:m:\munir\c prg\product\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
